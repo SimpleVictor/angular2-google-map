@@ -1,0 +1,25 @@
+.TheForm{
+  padding: 100px;
+}
+h2{
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
+label{
+  color: white;
+  font-weight: bold;
+}
+
+.form-group{
+ margin-top: 30px;
+}
+
+button {
+  margin-top: 30px;
+}
+
+.form-control{
+  font-size: 30px;
+  height: 50px;
+}

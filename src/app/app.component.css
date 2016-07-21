@@ -1,0 +1,33 @@
+
+.col-md-6, .row{
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+#all-container{
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#form-background{
+  background-color: #2E6D99;
+}
+
+.navbar-header{
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-brand{
+  margin: auto;
+  font-size: 20px;
+  padding: auto;
+  float: none;
+  line-height: 3;
+  letter-spacing: 20px;
+  font-weight: bold;
+  color: white;
+}
